@@ -4,10 +4,16 @@
 
 # Luis Calvillo 
 
-**`iOS Developer `**
+**`iOS Developer | Co-Founder of WhattaEat`**
 
+I’m an iOS developer with 10 years of experience building and launching apps on the App Store.
 
-I'm a iOS developer with over 8 years of experience. I've published many iOS apps in the App Store and built apps for clients as well.
+Currently building WhattaEat - a social food discovery app where people decide where to eat through short-form videos and an interactive map.
+
+Previously built and exited **ShredSpots**, a skate spot discovery app used by skaters to find and share locations.
+
+I’m also the creator of the **App Canvas**, a framework for building apps focused on retention and real daily use.
+
 
 ## ⚒️ Languages and Development Tools ##
 
