@@ -6,13 +6,22 @@
 
 **`iOS Developer | Co-Founder of WhattaEat`**
 
-I’m an iOS developer with 10 years of experience building and launching apps on the App Store.
+I'm a San Diego-based iOS developer and entrepreneur with a proven track record of building and launching consumer mobile apps.
 
-Currently building WhattaEat - a social food discovery app where people decide where to eat through short-form videos and an interactive map.
+### Current Project
+**WhattaEat** — A video-first social food discovery app.  
+Users discover restaurants, street vendors, and hidden gems through authentic short videos and an interactive map filled with food emojis — moving beyond static photos and star ratings.
 
-Previously built and exited **ShredSpots**, a skate spot discovery app used by skaters to find and share locations.
+### Previous Work
+**ShredSpots** — Founded and successfully exited.  
+A skate spot discovery app that grew to **over 100,000 downloads** and ranked in the Top 200 Sports apps on the App Store before being acquired in 2021.
 
-I’m also the creator of the **App Canvas**, a framework for building apps focused on retention and real daily use.
+### Other Work
+Creator of **App Canvas** — A framework focused on improving mobile app retention and building products people actually use daily.
+
+---
+
+Always happy to connect with other developers, founders, and skaters. Feel free to reach out!
 
 
 ## ⚒️ Languages and Development Tools ##
