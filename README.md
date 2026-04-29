@@ -24,7 +24,8 @@ An iOS skate camera app built for skateboarders who film themselves. ShredCam he
 A skate spot discovery app that grew to **over 100,000 downloads** and ranked in the Top 200 Sports apps on the App Store before being acquired in 2021.
 
 ### Other Work
-Creator of **App Canvas** — A framework focused on improving mobile app retention and building products people actually use daily.
+
+Creator of **[App Canvas](https://luiscalvillo.com/the-app-canvas-a-framework-for-building-apps-people-open-daily/)** — A framework focused on improving mobile app retention and building products people actually use daily.
 
 ---
 
